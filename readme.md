@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshubhranshu&label=Profile%20views&color=0e75b6&style=flat" alt="kshubhranshu" /> </p>
 
-- 🔭 I’m currently working @ [NeoDove](https://in.linkedin.com/company/neodove)
+- 🔭 I’m currently working @ [Cuvette Tech](https://www.linkedin.com/company/cuvette-tech/)
 
 - 🌱 I’m currently learning **Meditation**
 
