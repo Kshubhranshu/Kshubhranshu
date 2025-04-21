@@ -1,4 +1,4 @@
-<h1 align="center">They call me Kumaar IRL, but in the digital playground — I'm Clyde ⚡</h1>
+<h1 align="center">They call me "kumaar" IRL, but in the digital playground — I'm "clyde" ⚡</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kshubhranshu&label=Profile%20views&color=0e75b6&style=flat" alt="kshubhranshu" />
