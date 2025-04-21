@@ -5,7 +5,7 @@
 </p>
 
 <blockquote align="left">
-  🌍 <strong>Building Choppa</strong> – Spreading love and curing hunger with food & grocery delivery in <em>"this time for Africa"</em>
+  🌍 <strong>Building Choppa</strong> – Spreading joy and curing hunger with food & grocery delivery.
 </blockquote>
 
 <p align="left">
