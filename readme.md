@@ -15,16 +15,20 @@
 <p align="left">
   Letter to Fitness Founders, Online Fitness Coaches & Fitness Creators <a href="https://futureprojectpartner.netlify.app" target="_blank">read the letter</a>
 </p>
-<p>
-  - Scaled the platform to **2.5M+ users**, ensuring **high availability**, **performance**, and **reliability**.
-- Built and scaled an **automated lead distribution system**, efficiently managing **1M+ leads daily**.
-- Led a team of **2 interns** to build an **AI-driven analytical dashboard** with chat-based insights and intuitive data visualizations.
-- Optimized **SEO and performance**:
-  - Boosted Google visibility.
-  - Improved load time by **80%**.
-  - Increased Lighthouse score to **85+**.
-  - Reduced API response time to **< 200ms**.
-  - Migrated key pages to **Next.js**.
-- Implemented **path-tracking middleware** to log API call journeys from request to response, **reducing debugging time by 90%**.
+<h3>Here are a few things that I have been doing</h3>
+<ul>
+  <li>Scaled the platform to <strong>2.5M+ users</strong>, ensuring <strong>high availability</strong>, <strong>performance</strong>, and <strong>reliability</strong>.</li>
+  <li>Built and scaled an <strong>automated lead distribution system</strong>, efficiently managing <strong>1M+ leads daily</strong>.</li>
+  <li>Led a team of <strong>2 interns</strong> to build an <strong>AI-driven analytical dashboard</strong> with chat-based insights and intuitive data visualizations.</li>
+  <li>Optimized <strong>SEO and performance</strong>:
+    <ul>
+      <li>Boosted Google visibility.</li>
+      <li>Improved load time by <strong>80%</strong>.</li>
+      <li>Increased Lighthouse score to <strong>85+</strong>.</li>
+      <li>Reduced API response time to <strong>&lt; 200ms</strong>.</li>
+      <li>Migrated key pages to <strong>Next.js</strong>.</li>
+    </ul>
+  </li>
+  <li>Implemented <strong>path-tracking middleware</strong> to log API call journeys from request to response, <strong>reducing debugging time by 90%</strong>.</li>
+</ul>
 
-</p>
