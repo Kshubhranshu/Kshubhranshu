@@ -15,7 +15,7 @@
 <p align="left">
   Letter to Fitness Founders, Online Fitness Coaches & Fitness Creators <a href="https://futureprojectpartner.netlify.app" target="_blank">read the letter</a>
 </p>
-<h3>Here are a few things that I have been doing</h3>
+<h3>Here are a few things that I have been done</h3>
 <ul>
   <li>Scaled the platform to <strong>2.5M+ users</strong>, ensuring <strong>high availability</strong>, <strong>performance</strong>, and <strong>reliability</strong>.</li>
   <li>Built and scaled an <strong>automated lead distribution system</strong>, efficiently managing <strong>1M+ leads daily</strong>.</li>
