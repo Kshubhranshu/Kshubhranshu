@@ -32,3 +32,8 @@
   <li>Implemented <strong>path-tracking middleware</strong> to log API call journeys from request to response, <strong>reducing debugging time by 90%</strong>.</li>
 </ul>
 
+<h3>Killed Projects</h3>
+<ul>
+  <li><strong>IdeaBook</strong> – A distraction-free note-taking app to capture and organize startup ideas. Shut down due to low user engagement and lack of product-market fit.</li>
+  <li><strong>Fibo</strong> – A fitness CRM for gyms and online fitness businesses. After interviewing 30 users, discovered limited demand — only 2 users showed genuine interest, so it was discontinued.</li>
+</ul>
