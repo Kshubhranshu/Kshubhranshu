@@ -13,7 +13,6 @@
   Want to build something that people want? Check out <a href="https://futureprojectpartner.netlify.app/" target="_blank">futureprojectpartner</a>
 </p>
 <p align="left">
-  Letter to Fitness Founders, Online Fitness Coaches & Fitness Creators
- <a href="[[https://futureprojectpartner.netlify.app](https://getpolie.netlify.app/)/](https://getpolie.netlify.app/)" target="_blank">read the letter</a>
+  Letter to Fitness Founders, Online Fitness Coaches & Fitness Creators <a href="https://futureprojectpartner.netlify.app" target="_blank">read the letter</a>
 </p>
 
