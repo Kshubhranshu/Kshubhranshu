@@ -14,7 +14,7 @@
 </p>
 <h3>Project Closest to my heart</h3>
 <p>I built https://useqwik.com/product after watching my siblings use Excel as their to-do and goals app. It was finally my moment to show them what I actually do — instead of just saying "I write code" and getting eye rolls. Now they use it daily and said, “Whoa, you finally made something useful.” Felt like winning the sibling Oscars.</p>
-<h3>Here are a few things that I have been done</h3>
+<h3>Here’s a little about my contributions:</h3>
 <ul>
   <li>Scaled the platform to <strong>2.5M+ users</strong>, ensuring <strong>high availability</strong>, <strong>performance</strong>, and <strong>reliability</strong>.</li>
   <li>Built and scaled an <strong>automated lead distribution system</strong>, efficiently managing <strong>1M+ leads daily</strong>.</li>
