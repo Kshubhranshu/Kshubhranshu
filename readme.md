@@ -12,9 +12,8 @@
 <p align="left">
   Want to build something that people want? Check out <a href="https://futureprojectpartner.netlify.app/" target="_blank">futureprojectpartner</a>
 </p>
-<p align="left">
-  Letter to Fitness Founders, Online Fitness Coaches & Fitness Creators <a href="https://futureprojectpartner.netlify.app" target="_blank">read the letter</a>
-</p>
+<h3>Project Closest to my heart</h3>
+<p>I built https://useqwik.com/product after watching my siblings use Excel as their to-do and goals app. It was finally my moment to show them what I actually do — instead of just saying "I write code" and getting eye rolls. Now they use it daily and said, “Whoa, you finally made something useful.” Felt like winning the sibling Oscars.</p>
 <h3>Here are a few things that I have been done</h3>
 <ul>
   <li>Scaled the platform to <strong>2.5M+ users</strong>, ensuring <strong>high availability</strong>, <strong>performance</strong>, and <strong>reliability</strong>.</li>
